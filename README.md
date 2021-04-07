@@ -4,6 +4,8 @@ Paint program made on 8086 ASM
 
 This program was made for `TASAM` and must be linked with `TLINK /t`  since it is a `.COM` program 
 
+Uses my adaptation of the Bresenham algorithm to draw lines.
+
 ## User manual
  
 | Key | Action |
